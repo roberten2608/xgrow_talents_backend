@@ -1,1 +1,1 @@
-#Exercícios do curso Xgrow(Awari) de Backend
+#Exercícios do curso Xgrow Talents Junior(Awari) de Backend
